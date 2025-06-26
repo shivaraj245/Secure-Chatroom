@@ -60,13 +60,13 @@ The **Secure Chatroom** is a real-time messaging system designed to provide secu
 ## 📸 Screenshots
 
 ### Login Window
-![Login Window](image-3.png)
+![Login Window](screenshots/image-3.png)
 
 ### Main Chat Interface
-![Main Chat Interface](image-1.png)
+![Main Chat Interface](screenshots/image-1.png)
 
 ### Admin Panel
-![Admin Panel](image-2.png)
+![Admin Panel](screenshots/image-2.png)
 
 
 
@@ -393,9 +393,9 @@ copies or substantial portions of the Software.
 
 ## 👨‍💻 Author
 
-**Shivaraj Manikashett**
+**Shivaraj Manikashetti**
 - GitHub: [@shivaraj245](https://github.com/shivaraj245)
-- Email: shivaraj.manikashett@example.com
+
 
 ---
 
