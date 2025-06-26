@@ -1,0 +1,13 @@
+
+{
+    "ip": "192.168.101.232",
+    "port": 8889,
+    "buffer": 1024,
+    "welcome_message": "Welcome to DARK ROOM - Secure Chat",
+    "protected_by_password": true,
+    "password": "test",
+    "save_chat_history": true,
+    "max_login_attempts": 3,
+    "admin_commands_enabled": true,
+    "database_file": "chat_database.db"
+}
